@@ -42,5 +42,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Weather data provided by [OpenWeather](https://openweathermap.org/).
 
 ---
-
-Feel free to customize this template according to your app's specific details and requirements.
