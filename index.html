@@ -10,12 +10,15 @@
 
 <body>
     <div class="card">
+        <header>
+            <h1>WeatherApp</h1>
+        </header>
         <div class="search">
-            <input type="text" placeholder="Enter a country/city Name" spellcheck="false" />
+            <input type="text" placeholder="Enter a country/city Name" spellcheck="false" maxlength="15" />
             <button><img src="./images/search.png" alt="loading" /></button>
         </div>
         <div class="error">
-            <p>Invalid city Name.</p>
+            <p>Invalid country/city Name.</p>
         </div>
 
         <div class="weather">
